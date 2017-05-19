@@ -1,1 +1,4 @@
-http://www.pmi.org/certifications/types/certified-associate-capm
+GIT
+https://github.com/kiranvidhate/PMI.git
+
+PMI Ref: http://www.pmi.org/certifications/types/certified-associate-capm
